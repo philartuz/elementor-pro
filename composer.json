@@ -1,0 +1,10 @@
+{
+  "name": "github.com/philartuz/elementor-pro",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/philartuz/elementor-pro",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  }
+}
